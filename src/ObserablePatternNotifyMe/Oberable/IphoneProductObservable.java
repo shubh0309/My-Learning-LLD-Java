@@ -1,6 +1,6 @@
-package NotifyMe.Oberable;
+package ObserablePatternNotifyMe.Oberable;
 
-import NotifyMe.Oberver.StockNotificationObserver;
+import ObserablePatternNotifyMe.Oberver.StockNotificationObserver;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package NotifyMe.Oberver;
+package ObserablePatternNotifyMe.Oberver;
 
 public interface StockNotificationObserver {
     void update();

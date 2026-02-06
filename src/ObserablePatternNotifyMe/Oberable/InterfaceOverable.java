@@ -1,6 +1,6 @@
-package NotifyMe.Oberable;
+package ObserablePatternNotifyMe.Oberable;
 
-import NotifyMe.Oberver.StockNotificationObserver;
+import ObserablePatternNotifyMe.Oberver.StockNotificationObserver;
 
 public interface InterfaceOverable {
     void addStockObserver(StockNotificationObserver observer);

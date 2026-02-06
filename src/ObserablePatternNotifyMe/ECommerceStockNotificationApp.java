@@ -1,9 +1,9 @@
-package NotifyMe;
+package ObserablePatternNotifyMe;
 
-import NotifyMe.Oberable.IphoneProductObservable;
-import NotifyMe.Oberver.EmailNotificationObserver;
+import ObserablePatternNotifyMe.Oberable.IphoneProductObservable;
+import ObserablePatternNotifyMe.Oberver.EmailNotificationObserver;
 
-import NotifyMe.Oberver.StockNotificationObserver;
+import ObserablePatternNotifyMe.Oberver.StockNotificationObserver;
 
 public class ECommerceStockNotificationApp {
     public static void main(String[] args) {

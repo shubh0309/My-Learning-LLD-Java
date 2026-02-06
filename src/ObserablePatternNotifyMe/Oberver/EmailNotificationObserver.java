@@ -1,4 +1,4 @@
-package NotifyMe.Oberver;
+package ObserablePatternNotifyMe.Oberver;
 public class EmailNotificationObserver implements StockNotificationObserver  {
     private String userId;
     private String emailId;
